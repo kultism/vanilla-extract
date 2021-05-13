@@ -1,5 +1,11 @@
 # @vanilla-extract/css
 
+## 0.4.5
+
+### Patch Changes
+
+- [#128](https://github.com/seek-oss/vanilla-extract/pull/128) [`ed76e45`](https://github.com/seek-oss/vanilla-extract/commit/ed76e450038cb7cbaf12a511fda9e2a3a6d21b96) Thanks [@ntkoopman](https://github.com/ntkoopman)! - Fix --webkit-line-clamp unit
+
 ## 0.4.4
 
 ### Patch Changes
